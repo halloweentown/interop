@@ -574,6 +574,7 @@ relative URL, and the HTTP method with which you access them.
 Some endpoints take JSON requests or return JSON responses. The format of the
 JSON data is defined in the
 [Interop API Proto](https://github.com/auvsi-suas/interop/blob/master/proto/interop_api.proto).
+Examples include object characteristics such as shape, color, type, orientation, etc.
 
 #### User Login
 
